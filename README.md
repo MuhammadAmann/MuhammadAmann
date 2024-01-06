@@ -1,6 +1,8 @@
-![LinkedIn Cover](https://github.com/MuhammadAmann/MuhammadAmann/assets/109753345/9004326d-c2f1-4983-afbd-e634d92b7c68)
+![Motivational Cover](https://github.com/MuhammadAmann/MuhammadAmann/assets/109753345/4ced55b0-c89d-4b5c-b39c-66afae3221a1)
 
 <h1 align="center">Hi 👋, I'm Muhammad Aman</h1>
+
+
 <h3 align="center">A Mobile Application developer (Flutter | React Native )</h3>
  <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"
 
@@ -12,11 +14,12 @@
 
 💬 => Ask me about **Flutter | React Native | Graphic Design**
 
+🎨 => I have Experience in [Graphic Designing](https://www.behance.net/shahzadaman)
+
 📫 => How to reach me **muhammadamann72@gmail.com**
 
 👨‍💻 => All of my projects designs are available at(Behance link) [https://www.behance.net/shahzadaman](https://www.behance.net/shahzadaman)
 
-🎨 => I have Experience in [Graphic Designing](https://www.behance.net/shahzadaman)
 
 
 
@@ -24,10 +27,6 @@
 <div id="badges">
  <a href="https://www.linkedin.com/in/m-amann/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Aman"/>
-</a>
-  <a href="https://github.com/Muhammad Aman">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
    <a href="https://www.instagram.com/dev.inventive">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
