@@ -4,19 +4,20 @@
 <h3 align="center">A Mobile Application developer (Flutter | React Native )</h3>
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"
 
-👨‍💻 I’m currently working on **📱 Both Frameworks**
+👨‍💻 => I’m currently working on **📱 Both Frameworks**
 
-🌱 I’m currently learning **React Native**
+🌱 => I’m currently learning **React Native**
 
-👨‍🎓 I’m currently studying **Software Engineering**
+👨‍🎓 => I’m currently studying **Software Engineering**
 
-🎨 I have Experience in [Graphic Designing](https://www.behance.net/shahzadaman)
+💬 => Ask me about **Flutter | React Native | Graphic Design**
 
-👨‍💻 All of my projects designs are available at(Behance link) [https://www.behance.net/shahzadaman](https://www.behance.net/shahzadaman)
+📫 => How to reach me **muhammadamann72@gmail.com**
 
-💬 Ask me about **Flutter | React Native | Graphic Design**
+👨‍💻 => All of my projects designs are available at(Behance link) [https://www.behance.net/shahzadaman](https://www.behance.net/shahzadaman)
 
-📫 How to reach me **muhammadamann72@gmail.com**
+🎨 => I have Experience in [Graphic Designing](https://www.behance.net/shahzadaman)
+
 
 
 <h3 align="left">Connect with me:</h3>
