@@ -30,7 +30,7 @@
    <a href="https://www.instagram.com/dev.inventive">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/dev.inventive">
+   <a href="https://www.facebook.com/SWdesigns720">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
  <a href="https://www.behance.net/shahzadaman">
