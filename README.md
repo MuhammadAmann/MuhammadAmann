@@ -46,7 +46,3 @@
 ![Muhammad Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadamann&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadamann&theme=dark)
- 
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadamann&theme=dark&background=90,121212,904e95&title_color=fff&text_color=fff&ring=fff&fire=fff" alt="muhammadamann" />
-  </p>
