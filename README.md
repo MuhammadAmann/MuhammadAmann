@@ -1,6 +1,6 @@
 ![Motivational Cover](https://github.com/MuhammadAmann/MuhammadAmann/assets/109753345/4ced55b0-c89d-4b5c-b39c-66afae3221a1)
 
-<h1 align="center">Hi 👋, I'm Muhammad Aman</h1>
+<h1 align="center">Hey 👋, I'm Muhammad Aman</h1>
 
 
 <h3 align="center">A Mobile Application developer (Flutter | React Native )</h3>
