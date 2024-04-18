@@ -3,12 +3,10 @@
 <h1 align="center">Hey 👋, I'm Muhammad Aman</h1>
 
 
-<h3 align="center">A Mobile Application developer (Flutter | React Native )</h3>
+<h3 align="center">A Mobile Application developer (React Native | Flutter)</h3>
  <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"
 
-👨‍💻 => I’m currently working on **📱 Both Frameworks**
-
-🌱 => I’m currently learning **React Native**
+👨‍💻 => I’m currently working on **📱 React Native**
 
 👨‍🎓 => I’m currently studying **Software Engineering**
 
@@ -18,7 +16,7 @@
 
 📫 => How to reach me **muhammadamann72@gmail.com**
 
-👨‍💻 => All of my projects designs are available at(Behance link) [https://www.behance.net/shahzadaman](https://www.behance.net/shahzadaman)
+👨‍💻 => All of my projects & designs are available at(Behance link) [https://www.behance.net/shahzadaman](https://www.behance.net/shahzadaman)
 
 
 
