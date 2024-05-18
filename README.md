@@ -38,7 +38,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cpp,flutter,dart,react,javascript,css,redux,mysql,firebase,github,vscode,postman,figma,photoshop,illustrator&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,flutter,dart,react,javascript,css,redux,firebase,github,vscode,postman,figma,photoshop,illustrator&perline=5)](https://skillicons.dev)
 
 
 ![Muhammad Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadamann&show_icons=true&theme=dark)
