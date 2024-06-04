@@ -18,7 +18,7 @@
 
 📫 => How to reach me **muhammadamann72@gmail.com**
 
-👨‍💻 => All of my project designs are available at(Behance link) [https://www.behance.net/shahzadaman](https://www.behance.net/shahzadaman)
+👨‍💻 => All of my project designs are available at [Behance link](https://www.behance.net/shahzadaman)
 
 
 
