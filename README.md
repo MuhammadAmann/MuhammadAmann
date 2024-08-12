@@ -3,14 +3,14 @@
 <h1 align="center">Hey 👋, I'm Muhammad Aman</h1>
 
 
-<h3 align="center">A Mobile Application developer (React Native | Flutter)</h3>
+<h3 align="center">A Mobile Application developer (React Native | Flutter | Node Js)</h3>
  <img align="right" alt="coding" width="300" marginleft = 10px src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"
 
 👨‍💻 => I’m currently working on **📱 React Native** and  **Node Js**
 
 👨‍🎓 => I’m currently studying **Software Engineering**
 
-💬 => Ask me about **Flutter | React Native | Graphic Design**
+💬 => Ask me about **Flutter | React Native | Node Js**
 
 👨‍💻 => LeetCode Profile [LeetCode_MuhammadAman](https://leetcode.com/u/720911/)
 
