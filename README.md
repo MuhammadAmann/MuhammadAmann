@@ -6,7 +6,7 @@
 <h3 align="center">A Mobile Application developer (React Native | Flutter)</h3>
  <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"
 
-👨‍💻 => I’m currently working on **📱 React Native**
+👨‍💻 => I’m currently working on **📱 React Native** and  **Node Js**
 
 👨‍🎓 => I’m currently studying **Software Engineering**
 
