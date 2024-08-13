@@ -3,22 +3,20 @@
 <h1 align="center">Hey 👋, I'm Muhammad Aman</h1>
 
 
-<h3 align="center">A Mobile Application developer (React Native | Flutter | Node Js)</h3>
+<h3 align="center">A Passionate Software Developer (React Native | Flutter | Node Js)</h3>
  <img align="right" alt="coding" width="300" marginleft = 10px src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"
 
-👨‍💻 => I’m currently working on **📱 React Native**
+👨‍💻 => Currently working on **📱 React Native** and **Node Js**
 
-👨‍💻 => I’m currently learning **Node Js**
+👨‍💻 => Currently learning **Full Stack App Development**
 
 💬 => Ask me about **Flutter | React Native | Node Js**
 
 👨‍💻 => LeetCode Profile [LeetCode_MuhammadAman](https://leetcode.com/u/720911/)
 
-🎨 => I have Experience in [Graphic Designing](https://www.behance.net/shahzadaman)
-
 📫 => How to reach me **muhammadamann72@gmail.com**
 
-👨‍💻 => All of my project designs are available at [Behance link](https://www.behance.net/shahzadaman)
+👨‍💻 => All of my project(mobile apps) designs are available at [Behance link](https://www.behance.net/shahzadaman)
 
 
 
