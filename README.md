@@ -8,7 +8,7 @@
 
 👨‍💻 => Currently working on **📱 React Native** and **Node Js**
 
-👨‍💻 => Currently learning **Full Stack App Development**
+👨‍💻 => Currently learning **Full Stack Development**
 
 💬 => Ask me about **Flutter | React Native | Node Js**
 
