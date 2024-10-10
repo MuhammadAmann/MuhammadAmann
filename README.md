@@ -40,7 +40,6 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=cpp,javascript,ts,html,css,react,redux,nodejs,express,mongodb,flutter,dart,firebase,github,vscode,postman,figma&perline=5)](https://skillicons.dev)
 
+![muhammadamann's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadamann&show_icons=true&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadamann&layout=compact&langs_count=6&theme=radical)
 
-![Muhammad Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadamann&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadamann&theme=dark)
