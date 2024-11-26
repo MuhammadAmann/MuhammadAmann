@@ -3,7 +3,7 @@
 <h1 align="center">Hey 👋, I'm Muhammad Aman</h1>
 
 
-<h3 align="center">A Passionate Software Developer (React Native | Flutter | Node Js)</h3>
+<h3 align="center">A Passionate Software Developer (React Native | Node Js)</h3>
  <img align="right" alt="coding" width="300" marginleft = 10px src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"
 
 👨‍💻 => Currently working on **📱 React Native** and **Node Js**
