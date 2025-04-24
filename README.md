@@ -10,7 +10,7 @@
 
 👨‍💻 => Currently learning **Full Stack Development**
 
-💬 => Ask me about **Flutter | React Native | Node Js**
+💬 => Ask me about **React.Js | React Native | Node.Js**
 
 👨‍💻 => LeetCode Profile [LeetCode_MuhammadAman](https://leetcode.com/u/720911/)
 
