@@ -3,12 +3,12 @@
 <h1 align="center">Hey 👋, I'm Muhammad Aman</h1>
 
 
-<h3 align="center">A Passionate Full Stack Software Developer ( React Native | MERN )</h3>
+<h3 align="center">A Passionate Full Stack Software Developer ( React Native | Flutter | MERN )</h3>
  <img align="right" alt="coding" width="300" marginleft = 10px src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"
 
 👨‍💻 => Currently working on **📱 React Native** and **MERN Stack**
 
-💬 => Ask me about **React Native | MERN Stack**
+💬 => Ask me about **React Native | Flutter | MERN Stack**
 
 📫 => How to reach me **muhammadamann72@gmail.com**
 
