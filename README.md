@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
  <a href="https://www.linkedin.com/in/m-amann/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Aman"/>
+  <!-- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Aman"/> -->
    <a href="https://www.instagram.com/dev.inventive">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
